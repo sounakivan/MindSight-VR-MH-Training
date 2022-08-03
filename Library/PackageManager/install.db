@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "2924b763238c",
+        "mtime": 1657554686000,
+        "size": 11745614,
+        "localPath": "C:\\Users\\ALIENWARE EDU\\Documents\\Unity\\XR-Brain-Jam\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.2.tgz"
+      }
+    },
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "3ee6c452bc34",
+        "mtime": 1657427391939,
+        "size": 16210619,
+        "localPath": "C:\\Users\\PaulD\\Downloads\\com.valvesoftware.unity.openvr-1.1.4.tgz"
+      }
+    }
+  }
+}

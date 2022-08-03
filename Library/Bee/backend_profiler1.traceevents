@@ -1,0 +1,721 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1657567626721561, "dur":946, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567626722513, "dur":67, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1657567626722607, "dur":18, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1657567626722626, "dur":390, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1657567626723048, "dur":353, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567626723401, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649654, "dur":228, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649883, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649891, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649892, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649904, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649905, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649909, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649910, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649914, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649914, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649918, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649919, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649923, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649924, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649928, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649929, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649932, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649933, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649937, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649938, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649941, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649942, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649946, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649947, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649950, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649951, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649954, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649955, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649958, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649959, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649962, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649963, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649966, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649966, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649970, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649971, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649974, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649975, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649978, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649979, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649983, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627649993, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627650054, "dur":1080, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1657567626723019, "dur":387, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626723407, "dur":2719, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626726133, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657567626726134, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626726257, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657567626726267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626757854, "dur":440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657567626758297, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626758318, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626758321, "dur":103916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626862257, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626862276, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626862280, "dur":12456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626874757, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626874776, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626874781, "dur":17245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626892040, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626892058, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626892062, "dur":24356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626916437, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626916454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626916458, "dur":33054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626949527, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626949540, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567626949556, "dur":49814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567626999389, "dur":59384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627058794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567627058799, "dur":652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627059462, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627059841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567627059845, "dur":359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627060215, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627060514, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567627060518, "dur":284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627060811, "dur":69362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627130176, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567627130179, "dur":2226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627132420, "dur":62274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRG2OM.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627194696, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567627194700, "dur":489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRG2OM.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627195200, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627195213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657567627195216, "dur":224165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657567627419397, "dur":230272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626723043, "dur":370, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626723413, "dur":2724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626726147, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1657567626726267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626758065, "dur":365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1657567626758448, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567626758471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626758475, "dur":234508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567626993003, "dur":967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567626993974, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626993981, "dur":527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567626994524, "dur":618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567626995145, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567626995153, "dur":1056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567626996228, "dur":133645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627129876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567627129880, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627130791, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627131283, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567627131287, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627133311, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627133329, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567627133332, "dur":230749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627364099, "dur":179742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627543844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657567627543849, "dur":542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657567627544403, "dur":105267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626723164, "dur":265, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626723429, "dur":2705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626726135, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1657567626726248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626752692, "dur":514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1657567626753226, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626753248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626753265, "dur":108508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626861792, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626861811, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626861815, "dur":31083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626892910, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626892929, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626892932, "dur":39490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626932458, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567626932476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567626932481, "dur":125509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627058012, "dur":72380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627130394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627130397, "dur":2343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627132754, "dur":96034, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627228790, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627228794, "dur":362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627229167, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627229185, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627229187, "dur":152040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657567627381240, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627381255, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627381258, "dur":378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_logitech_stylus.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627381646, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627381662, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627381665, "dur":392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_holographic_controller.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627382068, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627382111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627382114, "dur":313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627382438, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1657567627382451, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627382453, "dur":678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1657567627383142, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657567627383154, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627383157, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657567627386244, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627386290, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627386303, "dur":342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627386655, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627387160, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627387163, "dur":305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1657567627387477, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1657567627387490, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627387492, "dur":10532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1657567627398039, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657567627398054, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627398059, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657567627399229, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1657567627399244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627399248, "dur":399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1657567627399657, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657567627399669, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627399672, "dur":391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657567627400073, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1657567627400086, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657567627400089, "dur":395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1657567627400496, "dur":249156, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626723036, "dur":373, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626723409, "dur":2729, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626726139, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1657567626726267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626760219, "dur":3815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1657567626764052, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626764073, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626764077, "dur":97823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626861933, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626861957, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626861960, "dur":56955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626918929, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626918943, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626918946, "dur":70574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626989539, "dur":1612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626991156, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567626991165, "dur":645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567626991831, "dur":56529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567627048363, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567627048370, "dur":2676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567627051066, "dur":130057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567627181147, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567627181156, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567627182043, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567627182078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657567627182114, "dur":299817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657567627481945, "dur":167711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626723094, "dur":323, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626723417, "dur":2721, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626726138, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1657567626726270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626752959, "dur":372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1657567626753351, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626753371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626753375, "dur":108837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626862232, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626862252, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626862255, "dur":22571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626884848, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626884871, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626884878, "dur":31451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626916347, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567626916365, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567626916369, "dur":92899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627009280, "dur":35831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627045115, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567627045122, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627045978, "dur":1769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627047752, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567627047759, "dur":700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627048477, "dur":82072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627130551, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567627130554, "dur":2436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627133007, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627133025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657567627133030, "dur":312315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657567627445360, "dur":204292, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657567626723110, "dur":310, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657567626723420, "dur":2714, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657567626726134, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657567626726266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657567626755694, "dur":419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657567626756130, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657567626756153, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657567626756156, "dur":105754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657567626861942, "dur":672520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657567627534466, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657567627534473, "dur":694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657567627535185, "dur":114487, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567626723127, "dur":296, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567626723423, "dur":2710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567626726134, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1657567626726269, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567626813276, "dur":48166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1657567626861466, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567626861500, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567626861505, "dur":137535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567626999060, "dur":130640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567627129703, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567627129708, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.OpenVR.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567627130563, "dur":193761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567627324342, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567627324348, "dur":486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567627324846, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567627324858, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657567627324861, "dur":202385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657567627527262, "dur":122401, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626723156, "dur":271, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626723427, "dur":2709, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626726138, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1657567626726269, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626860740, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1657567626862005, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626862026, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626862028, "dur":20019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626882068, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626882093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626882100, "dur":16244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626898359, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626898372, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626898376, "dur":18474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626916867, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626916887, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626916891, "dur":11602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626928509, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626928524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626928528, "dur":12954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626941502, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626941519, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626941524, "dur":8880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626950433, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626950456, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626950460, "dur":8291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626958765, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567626958778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567626958783, "dur":50329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567627009126, "dur":217129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567627226258, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567627226264, "dur":573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567627226849, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567627226862, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657567627226865, "dur":422730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657567627649611, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1657567627649613, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626723187, "dur":245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626723433, "dur":2698, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626726133, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1657567626726237, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626744250, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1657567626745515, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626745539, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626745564, "dur":114976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626860562, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626860590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626860595, "dur":14164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626874778, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626874798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626874802, "dur":16196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626891011, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626891026, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626891031, "dur":25132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626916184, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626916206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626916212, "dur":9756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626925984, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626925999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626926003, "dur":10939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626936955, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626936971, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626936975, "dur":8650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626945639, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567626945656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567626945661, "dur":55698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567627001373, "dur":291215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.ARFoundation.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567627292592, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567627292598, "dur":514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.ARFoundation.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567627293127, "dur":237937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/SteamVR.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567627531070, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1657567627531093, "dur":793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/SteamVR.dll" }}
+,{ "pid":12345, "tid":9, "ts":1657567627531906, "dur":117752, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567626723207, "dur":229, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567626723436, "dur":2696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567626726133, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1657567626726277, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567626817606, "dur":43883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1657567626861512, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567626861538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567626861542, "dur":13043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567626874618, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567626874650, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567626874656, "dur":134452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627009125, "dur":121253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627130380, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567627130397, "dur":2326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627132742, "dur":126837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRDevTools.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627259582, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567627259588, "dur":448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRDevTools.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627260048, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627260063, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1657567627260066, "dur":181986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1657567627442065, "dur":207604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626723220, "dur":220, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626723440, "dur":2690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626726133, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1657567626726266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626755575, "dur":408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1657567626756001, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626756023, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626756027, "dur":105980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626862024, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626862040, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626862043, "dur":22796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626884860, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626884882, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626884886, "dur":31639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626916545, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626916571, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626916575, "dur":44662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626961250, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626961264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567626961269, "dur":38164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567626999452, "dur":130445, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.Interaction.Toolkit.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567627129899, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567627129904, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.Interaction.Toolkit.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567627131116, "dur":102774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567627233893, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567627233899, "dur":714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567627234626, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567627234638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1657567627234641, "dur":366978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1657567627601634, "dur":48024, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1657567626723239, "dur":203, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1657567626723442, "dur":2706, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1657567626726148, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1657567626726268, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1657567626760451, "dur":386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1657567626760851, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1657567626760871, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1657567626760874, "dur":436531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1657567627197419, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1657567627197434, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1657567627197437, "dur":247912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1657567627445362, "dur":204298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567626723258, "dur":188, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567626723447, "dur":2692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567626726141, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1657567626726272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567626860793, "dur":1268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1657567626862080, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567626862131, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567626862134, "dur":195906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627058074, "dur":578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627058656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567627058664, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627059350, "dur":71168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627130521, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567627130526, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627132886, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627132904, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1657567627132909, "dur":350233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1657567627483155, "dur":166510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626723272, "dur":178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626723450, "dur":2709, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626726160, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1657567626726244, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626747449, "dur":777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1657567626748245, "dur":112314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626860563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626860569, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626862435, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626862451, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626862455, "dur":25538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626888007, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626888021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626888025, "dur":29017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626917058, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626917076, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626917080, "dur":32160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626949256, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567626949270, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567626949273, "dur":237619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627186912, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627186932, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567627186938, "dur":126852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627313805, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627313819, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567627313823, "dur":49609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627363452, "dur":178230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Microsoft.MixedReality.OpenXR.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627541686, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1657567627541692, "dur":493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Microsoft.MixedReality.OpenXR.dll" }}
+,{ "pid":12345, "tid":14, "ts":1657567627542198, "dur":107469, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626723290, "dur":163, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626723453, "dur":2708, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626726161, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626726247, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626744693, "dur":1134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626745841, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1657567626745856, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626745996, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1657567626748595, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626748611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626748614, "dur":113169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626861798, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626861818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626861822, "dur":12825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626874675, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626874705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626874710, "dur":16282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626891009, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626891025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626891031, "dur":43566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626934610, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567626934627, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567626934630, "dur":198554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627133197, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627133212, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627133215, "dur":58519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627191753, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627191777, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627191785, "dur":179757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627371561, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/SRWork_Client_API.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627371582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627371587, "dur":515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/SRWork_Client_API.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627372118, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/nanomsg.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627372138, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627372142, "dur":2099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/nanomsg.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627374261, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ViveSRWorks_Client.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627374284, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627374289, "dur":682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ViveSRWorks_Client.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627374983, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ucrtbased.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627375015, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627375018, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ucrtbased.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627376131, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/SRanipal.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627376145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627376148, "dur":641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/SRanipal.dll" }}
+,{ "pid":12345, "tid":15, "ts":1657567627376803, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":15, "ts":1657567627376824, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1657567627377064, "dur":35387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/UnitySubsystems/XRSDKOpenVR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":15, "ts":1657567627412466, "dur":237189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567626723303, "dur":153, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567626723456, "dur":2702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567626726158, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1657567626726245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567626747664, "dur":475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1657567626748159, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567626748179, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567626748194, "dur":113679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567626861891, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567626861921, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567626861925, "dur":332288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567627194232, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567627194253, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567627194258, "dur":119698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567627313970, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567627313985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1657567627313989, "dur":268716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":16, "ts":1657567627582726, "dur":66937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626723333, "dur":127, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626723460, "dur":2696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626726156, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1657567626726270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626816980, "dur":44630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1657567626861625, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626861640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626861643, "dur":12948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626874617, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626874650, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626874655, "dur":18651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626893318, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626893330, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626893333, "dur":22956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626916307, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626916326, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626916330, "dur":39453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626955796, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626955808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567626955812, "dur":43734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567626999564, "dur":130085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627129655, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567627129663, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627130485, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627130964, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567627130969, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627133206, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627133224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567627133228, "dur":151850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627285092, "dur":14003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/SteamVR_Actions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627299101, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567627299109, "dur":1631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/SteamVR_Actions.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627300767, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627300794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1657567627300801, "dur":118584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":17, "ts":1657567627419399, "dur":230251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626723345, "dur":119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626723464, "dur":2694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626726158, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1657567626726236, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626744040, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":18, "ts":1657567626745542, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567626745571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626745574, "dur":13267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567626758858, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567626758889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626758892, "dur":102993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567626861904, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567626861942, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567626861945, "dur":271469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627133431, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627133447, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627133449, "dur":231851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627365320, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/viveport_api64.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627365342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627365772, "dur":2568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/viveport_api64.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627368364, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/openxr_runtime_debugger.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627368391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627368444, "dur":676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/openxr_runtime_debugger.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627369140, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/XRSDKOpenVR.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627369163, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627369168, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/XRSDKOpenVR.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627371278, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627371372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627371380, "dur":835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627372234, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/mock_runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627372257, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627372261, "dur":594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/mock_runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627372874, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/tobii_stream_engine.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627372897, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627372902, "dur":2119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/tobii_stream_engine.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627375037, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627375059, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627375062, "dur":550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627375626, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ViveSR_CommunicationRules.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627375641, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627375643, "dur":521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ViveSR_CommunicationRules.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627376175, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/SRWorks_Log.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627376188, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627376191, "dur":568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/SRWorks_Log.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627376770, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/tobii_g2om.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627376785, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627376788, "dur":1119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/tobii_g2om.dll" }}
+,{ "pid":12345, "tid":18, "ts":1657567627377917, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/UnitySubsystems/MicrosoftOpenXRPlugin/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":18, "ts":1657567627377935, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1657567627378105, "dur":38179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/UnitySubsystems/MicrosoftOpenXRPlugin/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":18, "ts":1657567627416325, "dur":233337, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567626723367, "dur":101, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567626723468, "dur":2676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567626726144, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1657567626726239, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567626744229, "dur":1314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1657567626745561, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7.exe" }}
+,{ "pid":12345, "tid":19, "ts":1657567626745588, "dur":22, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567626745614, "dur":116045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7.exe" }}
+,{ "pid":12345, "tid":19, "ts":1657567626861673, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567626861688, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567626861691, "dur":512562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627374330, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/openvr_api.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627374368, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627374372, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/openvr_api.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627375391, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/libHTC_License.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627375407, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627375409, "dur":450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/libHTC_License.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627375870, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/tobii_hec.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627375885, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627375888, "dur":878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/tobii_hec.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627376782, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ViveSR_Client.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627376798, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627376801, "dur":588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Plugins/x86_64/ViveSR_Client.dll" }}
+,{ "pid":12345, "tid":19, "ts":1657567627377400, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627377414, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627377489, "dur":669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378172, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378316, "dur":341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive_tracker_camera.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378668, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive_pro.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378681, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378709, "dur":244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive_pro.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378963, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627378978, "dur":309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive_cosmos.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379298, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379311, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379313, "dur":245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_vive.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379568, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_rift.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379579, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379582, "dur":240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_rift.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379831, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_index_hmd.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379844, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627379846, "dur":304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_index_hmd.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380159, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380172, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380175, "dur":258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/binding_holographic_hmd.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380443, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380456, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380459, "dur":253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_vive_cosmos_controller.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380722, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380736, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627380738, "dur":483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_vive_controller.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381233, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381247, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381250, "dur":321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_oculus_touch.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381583, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_knuckles.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381596, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381598, "dur":329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/bindings_knuckles.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381938, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/actions.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381951, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627381953, "dur":299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/StreamingAssets/SteamVR/actions.json" }}
+,{ "pid":12345, "tid":19, "ts":1657567627382262, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1657567627382277, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627382290, "dur":450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1657567627382752, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1657567627382765, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627382767, "dur":17676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1657567627400456, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/boot.config" }}
+,{ "pid":12345, "tid":19, "ts":1657567627400498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1657567627400501, "dur":262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/boot.config" }}
+,{ "pid":12345, "tid":19, "ts":1657567627400772, "dur":248882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626723379, "dur":91, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626723470, "dur":2667, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626726137, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1657567626726243, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626744841, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":20, "ts":1657567626745557, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":20, "ts":1657567626745575, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626745611, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":20, "ts":1657567626746748, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Valve.Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626746768, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626746869, "dur":115105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Valve.Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626861990, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626862010, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626862014, "dur":12958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626874983, "dur":21685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626896672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626896677, "dur":459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626897149, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626897166, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626897169, "dur":37274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626934458, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626934485, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626934489, "dur":37916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626972423, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626972443, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567626972449, "dur":27109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567626999574, "dur":130399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.ARSubsystems.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627129975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567627129979, "dur":1174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/Unity.XR.ARSubsystems.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627131170, "dur":62303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRSDK.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627193478, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567627193487, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/TobiiXRSDK.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627194297, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627194311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567627194314, "dur":58851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627253184, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627253203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1657567627253252, "dur":330819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ALIENWARE EDU/Documents/XRBrainJam-Team7_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":20, "ts":1657567627584091, "dur":65579, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657567627652138, "dur":1335, "ph":"X", "name": "ProfilerWriteOutput" }
+,
